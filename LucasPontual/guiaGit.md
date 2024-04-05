@@ -1,5 +1,4 @@
 # LucasPontual
-# LucasPontual
  # GUIA DE COMANDOS GIT 
 
  - ls: Lista os arquivos presentes e dirétorios presentes no dirétorio atual
